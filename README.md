@@ -1,3 +1,3 @@
 # ImageGallery
 
-Image search page from flickr API   
+Image search engine page from flickr API   
