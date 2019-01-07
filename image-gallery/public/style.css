@@ -1,0 +1,12 @@
+/* Fonts */
+@import './fonts/viga.css';
+@import './fonts/NewsCycle.css';
+
+body{
+    background: #ebeced;
+    margin:0;
+    font-family: 'News Cycle', sans-serif;
+    
+}
+
+
