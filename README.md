@@ -6,4 +6,4 @@ Additionally the user can save specific key words, to local storage for future u
 
 ** ImageGallery is a responsive app, and it is suitable for computers and smart phones.
 
-[https://i.imgur.com/6vet3la.png]
+![](https://i.imgur.com/6vet3la.png)
